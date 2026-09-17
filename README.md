@@ -22,16 +22,14 @@ Go to [`examples/outcomes/`](examples/outcomes/). Four complete studies are ther
 
 30 days of UK conversation about weight loss medication: Reddit r/MounjaroUK and r/WegovyUK, Mumsnet, and UK news, collected 7 July to 6 August 2026. 12,450 items collected, 10,890 classified, 15 themes discovered inductively from the corpus, $9.70 in collection cost.
 
-The 400 news articles sit in the corpus to be compared against, not counted with, so every theme carries two shares: how much of press output it takes, and how much of patient conversation.
+Two themes dominate what patients actually talk about, and neither is the drug itself.
 
-| Theme | Patient conversation | Press output |
-|---|---|---|
-| The weekly weigh-in ritual | 21.7% | 0.2% |
-| Dose titration and click-counting | 21.6% | 0.8% |
-| Hair loss | 0.8% | 7.0% |
-| Business and policy | 1.1% | 85.2% |
+| Theme | Share of patient conversation |
+|---|---|
+| The weekly weigh-in ritual | 21.7% |
+| Dose titration and click-counting | 21.6% |
 
-85.2% of press output is about companies, share prices, approvals and policy. That subject is 1.1% of patient conversation, and the two largest things in patients' lives get almost no coverage.
+The weigh-in ritual and the economics of making a pen last are where the lived experience sits.
 
 **The other three**
 

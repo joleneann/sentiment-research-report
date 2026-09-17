@@ -22,22 +22,18 @@ Open the DOCX for the full deliverable: charts, verbatims, per-theme insights, m
 | Collection cost | $9.70, all of it Reddit |
 | Sources | Reddit r/MounjaroUK and r/WegovyUK, Mumsnet, UK news via Google News RSS, Google Trends for query design only |
 
-## The headline finding: press agenda versus patient agenda
+## The headline finding
 
-The 400 news articles sit in the corpus to be compared against, not counted with. Every theme carries two shares: how much of press output it takes, and how much of patient conversation.
+Two themes dominate what patients actually talk about, and neither is the drug itself.
 
-**85.2% of press output is about companies, share prices, approvals and policy. That subject is 1.1% of patient conversation.** UK coverage of this category is written for investors and policymakers, and patients read almost none of it.
+| Theme | Share of patient conversation |
+|---|---|
+| The weekly weigh-in ritual | 21.7% |
+| Dose titration and click-counting | 21.6% |
 
-The two largest things in patients' lives get almost no coverage:
-
-| Theme | Patient conversation | Press output |
-|---|---|---|
-| The weekly weigh-in ritual | 21.7% | 0.2% |
-| Dose titration and click-counting | 21.6% | 0.8% |
-| Hair loss | 0.8% | 7.0% |
-| Business and policy | 1.1% | 85.2% |
-
-A large positive gap means a concern arriving from coverage rather than from customers, which should be answered rather than amplified. A large negative gap means unserved attention.
+The weekly weigh-in, the plateau and the stall are the emotional centre of the experience. The
+second theme is pure economics: counting clicks to stretch a pen, and titrating around what the
+next dose costs.
 
 ## Themes
 
